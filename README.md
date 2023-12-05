@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com suporte de TI
-- 🌱 Estou estudando HTML, CSS e JavaScript
+- 🌱 Estou estudando HTML, CSS, JS e React
 
 <div>
   <a href="https://github.com/NickReinhardt">
